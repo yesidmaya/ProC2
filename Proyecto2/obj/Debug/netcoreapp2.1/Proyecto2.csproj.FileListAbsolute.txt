@@ -1,0 +1,44 @@
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.deps.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.runtimeconfig.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.runtimeconfig.dev.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.csprojAssemblyReference.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.AssemblyInfoInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.AssemblyInfo.cs
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.deps.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.runtimeconfig.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.runtimeconfig.dev.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.csprojAssemblyReference.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.AssemblyInfoInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.AssemblyInfo.cs
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Nueva carpeta\Proyecto2If\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.deps.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.runtimeconfig.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.runtimeconfig.dev.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.csprojAssemblyReference.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.AssemblyInfoInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.AssemblyInfo.cs
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.deps.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.runtimeconfig.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.runtimeconfig.dev.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.csprojAssemblyReference.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.AssemblyInfoInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.AssemblyInfo.cs
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto2if\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.pdb
